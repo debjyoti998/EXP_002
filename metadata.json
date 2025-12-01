@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Periodic Table",
+  "description": "A beautiful, interactive periodic table of elements with category filtering, search, and 3D Bohr model visualizations.",
+  "requestFramePermissions": []
+}
